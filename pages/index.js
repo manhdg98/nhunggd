@@ -5,6 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div id="container">
+      Nhung
     <div class="cover">
       <div class="front">
         <img
@@ -42,6 +43,7 @@ export default function Home() {
           width: 350px;
           height: 350px;
           margin: auto;
+          margin-top: 200px;
           perspective: 880px;
     
         }
